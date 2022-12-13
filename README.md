@@ -22,3 +22,4 @@ Quote section bg-color
 Quote text
 - 36px light italic #1F2937
 
+The image i used is from <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> by <a href="https://unsplash.com/@isaac_taylor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Isaac Mitchell</a>
