@@ -68,6 +68,7 @@
 .left-container p {
     font-size: 18px;
     margin-bottom: 10px;
+    color: #d5e6f5;
 }
 
 .left-container button {
@@ -78,4 +79,38 @@
     background-color: #3883f6;
     border: none;
     border-radius: .3cm;
+}
+
+.mid-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0 20%;
+    align-items: center;
+    height: 260px;
+    justify-content: space-around;
+}
+
+.four-box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box-wrapper {
+    display: flex;
+    width: 170px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3883f6;
+}
+
+.box-wrapper p {
+    width: 150px;
+    text-align: center;
+    color: #1F2937;
+    margin-top: 10px;
 }
