@@ -135,3 +135,29 @@
     align-self: flex-end;
     font-size: 18px;
 }
+
+.footer {
+    height: 260px;
+    padding: 0 30%;
+    display: flex;
+    align-items: center;
+}
+
+.blue-box {
+    display: flex;
+    background-color: #3883f6;
+    flex: 1;
+    padding: 25px 45px;
+    color: #E5E7EB;
+    justify-content: space-between;
+    border-radius: .25cm;
+}
+
+.blue-box button {
+    border: 1px solid #E5E7EB;
+    background-color: #3883f6;
+    color: #E5E7EB;
+    font-weight: bolder;
+    border-radius: .25cm;
+    padding: 5px 15px;
+}
