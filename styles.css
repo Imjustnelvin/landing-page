@@ -86,8 +86,8 @@
     flex-direction: column;
     padding: 0 20%;
     align-items: center;
-    height: 260px;
-    justify-content: space-around;
+    height: 300px;
+    justify-content: center;
 }
 
 .four-box-wrapper {
@@ -113,4 +113,25 @@
     text-align: center;
     color: #1F2937;
     margin-top: 10px;
+}
+
+.bot-container {
+    padding: 0 20%;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 260px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: lighter;
+}
+
+.thor {
+    align-self: flex-end;
+    font-size: 18px;
 }
